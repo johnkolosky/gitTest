@@ -79,3 +79,5 @@ data['Market Equity'] = data['Market Return'].cumsum() + 1
 data['Strategy Equity'] = data['Strategy'].cumsum() + 1
 
 backtest.calculate_ratios(data, print_ratios=True)
+
+# asd asd asd
